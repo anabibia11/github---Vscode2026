@@ -93,6 +93,10 @@ border-bottom: 4px solid var(--roxo);
     text-transform: uppercase;
 }
 
+.contador{
+    font-size: 20px;
+    text-align: center;
+}
 
 /* código escondido */
 
